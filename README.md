@@ -11,4 +11,4 @@
 - 📫 How to reach me: @PawanRamaMali
 - ⚡ Fun fact: I love drones, specially the FPV Drone Shots
 
-[![HitCount](http://hits.dwyl.com/PawanRamaMali/PawanRamaMali.svg)](http://hits.dwyl.com/PawanRamaMali/PawanRamaMali) ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali)
