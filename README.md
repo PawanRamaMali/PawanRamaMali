@@ -13,6 +13,8 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali)
 
+<!--
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 ![Alt text](https://octodex.github.com/images/dojocat.jpg  "The Dojocat")
+-->
