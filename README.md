@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/11299574/112211592-156b0f00-8c42-11eb-9182-0938951eaba3.png)
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 ### Hi there 👋
 
