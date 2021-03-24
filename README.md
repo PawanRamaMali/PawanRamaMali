@@ -11,7 +11,7 @@
 - 📫 How to reach me: @PawanRamaMali 
 - ⚡ Fun fact: I love drones, specially the FPV Drone Shots
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 ![Minion](https://octodex.github.com/images/minion.png)
