@@ -5,9 +5,9 @@
 
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="400"/>
 
-- 🔭 I’m currently working on building Dashboards using R Shiny Apps 
-- 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
-- 👯 I’m looking to collaborate on Data Science related Projects 
+- 🔭 I’m currently working on building Dashboards
+- 🌱 I’m currently learning Artificial Intelligence
+- 👯 I’m looking to collaborate on DS related Projects 
 - 🤔 I’m looking for help with Computer Vision Dashboards
 - 💬 Ask me about Software Programming, R Shiny Apps, Computer Systems, Photography & Chess
 - 📫 How to reach me: @PawanRamaMali 
