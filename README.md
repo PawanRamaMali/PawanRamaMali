@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Artificial Intelligence
 - 👯 I’m looking to collaborate on DS related Projects 
 - 🤔 I’m looking for help with Computer Vision Dashboards
-- 💬 Ask me about Software Programming, R Shiny Apps, Computer Systems, Photography & Chess
+- 💬 Ask me about Programming, R Shiny, Photography & Chess
 - 📫 How to reach me: @PawanRamaMali 
 - ⚡ Fun fact: I love drones, to be more specific FPV Drone flying. 
 
