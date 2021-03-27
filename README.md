@@ -1,15 +1,17 @@
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<img align="center" alt="GIF" src="https://github.com/PawanRamaMali/PawanRamaMali/blob/main/JavaScript.gif" width="960"/>
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on building Data Visualization Dashboards using R Shiny Apps 
+<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="400"/>
+
+- 🔭 I’m currently working on building Dashboards using R Shiny Apps 
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning 
 - 👯 I’m looking to collaborate on Data Science related Projects 
 - 🤔 I’m looking for help with Computer Vision Dashboards
-- 💬 Ask me about Software Programming, R Shiny Apps, Computer Systems, Photography, 
+- 💬 Ask me about Software Programming, R Shiny Apps, Computer Systems, Photography & Chess
 - 📫 How to reach me: @PawanRamaMali 
-- ⚡ Fun fact: I love drones, specially the FPV Drone Shots
+- ⚡ Fun fact: I love drones, to be more specific FPV Drone flying. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 
