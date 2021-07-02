@@ -19,8 +19,14 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRamaMali&show_icons=true&locale=en&layout=demo&theme=flag-india&hide_border=true" />
+</p>
+
 <!--
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 ![Alt text](https://octodex.github.com/images/dojocat.jpg  "The Dojocat")
 -->
+
