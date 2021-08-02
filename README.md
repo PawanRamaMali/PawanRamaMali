@@ -33,3 +33,8 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 ![Alt text](https://octodex.github.com/images/dojocat.jpg  "The Dojocat")
 -->
 
+### Note to Self
+
+```
+You must understand the business process because, You can't design something you can't describe 
+```
