@@ -34,9 +34,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 -->
 
 
-```
-You must understand the business process because, You can't design something you can't describe. 
-```
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -70,3 +68,7 @@ You must understand the business process because, You can't design something you
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
+
+```
+You must understand the business process because, You can't design something you can't describe. 
+```
