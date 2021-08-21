@@ -44,7 +44,9 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 <br> 
 
+<hr>
 
+### 🛠 Tech Stack 
 
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -64,6 +66,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
+<hr> 
 
 
 ```
