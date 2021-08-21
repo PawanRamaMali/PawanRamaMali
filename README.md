@@ -35,11 +35,14 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali&show_icons=true)](https://github.com/PawanRamaMali"/>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali)](https://github.com/PawanRamaMali"/>
+  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRamaMali&layout=compact)](https://github.com/PawanRamaMali"/>
+  
  </p>
 
-
+<br> 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -71,7 +74,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
+
 
 
 ```
