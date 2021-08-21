@@ -34,8 +34,12 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 -->
 
 
+
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRamaMali&layout=compact)](https://github.com/PawanRamaMali" />
+</p>
+<p align="right">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali&show_icons=true&hide=prs,issues)](https://github.com/PawanRamaMali" />
 </p>
 
 ### 🛠 &nbsp;Tech Stack
