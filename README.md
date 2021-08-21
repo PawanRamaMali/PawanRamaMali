@@ -36,7 +36,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 <p align="left">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali&show_icons=true)](https://github.com/PawanRamaMali"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali&show_icons=true&hide=prs,issues)](https://github.com/PawanRamaMali"/>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRamaMali&layout=compact)](https://github.com/PawanRamaMali"/>
   
@@ -61,7 +61,6 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
