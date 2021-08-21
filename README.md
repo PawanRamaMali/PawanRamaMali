@@ -44,7 +44,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 <br> 
 
-### 🛠 Tech Stack
+
 
 ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
