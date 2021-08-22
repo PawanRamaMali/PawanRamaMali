@@ -71,6 +71,8 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 
 A Few of My Favorite Quotes
 
+> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
+
 > “Anyone can write code that a computer can understand. Good programmers write code that humans can understand.” 
 
 > “First, solve the problem. Then, write the code.”
@@ -89,7 +91,15 @@ A Few of My Favorite Quotes
 
 > “Make it work, make it right, make it fast.” – Kent Beck
 
-```
 
+```JavaScript
+
+while(noSuccess)
+{
+    tryAgain();
+    
+    if (Dead)
+       break;
+}
 
 ```
