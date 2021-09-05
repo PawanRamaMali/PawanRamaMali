@@ -91,7 +91,7 @@ A Few of My Favorite Quotes
 
 > “Make it work, make it right, make it fast.” – Kent Beck
 
-
+>  "Technology we use is built on the shoulders of thousands of people, don't expect to understand and build a production-grade application in a week"
 
 ```JavaScript
 
