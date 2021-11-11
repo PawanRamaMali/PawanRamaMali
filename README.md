@@ -95,6 +95,9 @@ A Few of My Favorite Quotes
 
 >  "Technology we use is built on the shoulders of thousands of people, don't expect to understand and build a production-grade application in a week"
 
+> "May your every day be as SHINY as possible" - Pawan Rama Mali
+
+
 ```JavaScript
 
 while(noSuccess)
