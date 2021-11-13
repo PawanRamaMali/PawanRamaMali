@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: GitHub_Metrics_v2
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -31,3 +31,11 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           plugin_lines: yes
+      - uses: actions/first-interaction@v1.1.0
+        with:
+          # Token for the repository. Can be passed in using {{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.METRICS_TOKEN }}
+          # Comment to post on an individual's first issue
+          issue-message: "Thank you for describing the issue. This is an automated response" 
+          # Comment to post on an individual's first pull request
+          pr-message: "Thank you for your pull request. There might be some delay is reviewing your pull request."
