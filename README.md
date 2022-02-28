@@ -19,6 +19,9 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 - The Chess Game -  [Play](https://pawanramamali.github.io/JS/chess-demo/)   
 - Tic Tac Toe - 2 Player Game -  [Play](https://pawanramamali.github.io/Tic-Tac-Toe-App-Demo/) 
 
+Data Science - 
+- [Data Exploration in R ](https://pawanramamali.github.io/Data-Exploration-in-R/)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Pawan's Github activity graph](https://activity-graph.herokuapp.com/graph?username=PawanRamaMali&theme=xcode)](https://pawanramamali.github.io)
