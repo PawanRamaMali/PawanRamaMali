@@ -663,7 +663,7 @@ Add API to interact with contract</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 516k out of 89m users</span>
+                                    <span class="gh">ranked 517k out of 89m users</span>
                                 </div>
                                 <div class="text">Followed by 17 users</div>
                             </div>
@@ -863,7 +863,7 @@ Add API to interact with contract</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 19:47:35 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 20:51:20 (timezone Asia/Calcutta) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
