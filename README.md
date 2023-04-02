@@ -22,7 +22,7 @@ Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/)
 Data Science - 
 - [Data Exploration in R ](https://pawanramamali.github.io/Data-Exploration-in-R/)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://pawanramamali.github.io/)
 
 [![Pawan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PawanRamaMali&bg_color=ffffff&color=9e4c98&line=9e4c98&point=0300a3&area=true&hide_border=true)](https://pawanramamali.github.io)
 
