@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on building Dashboards
 - 🌱 I’m currently learning Artificial Intelligence
-- 👯 I’m looking to collaborate on DS related Projects 
-- 🤔 I’m looking for help with Computer Vision Dashboards
 - 💬 Ask me about Programming,Python, R Shiny, Django, Photography & Chess
 - 📫 How to reach me: @PawanRamaMali 
 - ⚡ Fun fact: I love drones, to be more specific FPV Drone flying. 
