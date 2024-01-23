@@ -1,15 +1,11 @@
-
-<img align="center" alt="GIF" src="https://github.com/PawanRamaMali/PawanRamaMali/blob/main/JavaScript.gif" width="960"/>
-
 ### Hi there 👋
 
 <img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="400"/>
 
 - 🔭 I’m currently working on building Dashboards
 - 🌱 I’m currently learning Artificial Intelligence
-- 💬 Ask me about Programming,Python, R Shiny, Django, Photography & Chess
+- 💬 Ask me about Programming, Python or R Shiny
 - 📫 How to reach me: @PawanRamaMali 
-- ⚡ Fun fact: I love drones, to be more specific FPV Drone flying. 
 
 Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/) 
 
