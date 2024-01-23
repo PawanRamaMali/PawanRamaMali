@@ -18,8 +18,6 @@ Data Science -
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPawanRamaMali&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Counter&edge_flat=false)](https://pawanramamali.github.io/)
 
-[![Pawan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PawanRamaMali&bg_color=ffffff&color=9e4c98&line=9e4c98&point=0300a3&area=true&hide_border=true)](https://pawanramamali.github.io)
-
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRamaMali" />
 </p>
