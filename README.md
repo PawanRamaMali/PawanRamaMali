@@ -66,33 +66,6 @@ Data Science -
 <hr> 
 
 
-A Few of My Favorite Quotes
-
-> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. - Bill Gates
-
-> “Anyone can write code that a computer can understand. Good programmers write code that humans can understand.” 
-
-> “First, solve the problem. Then, write the code.”
-
-> “Java is to JavaScript what car is to Carpet.” 
-
-> “Knowledge is power.” – Francis Bacon
-
-> “Fix the cause, not the symptom.” – Steve Maguire
-
-> “Optimism is an occupational hazard of programming: feedback is the treatment.“ Kent Beck
-
-> “Simplicity is the soul of efficiency.” – Austin Freeman
-
-> “Before software can be reusable it first has to be usable.” – Ralph Johnson
-
-> “Make it work, make it right, make it fast.” – Kent Beck
-
->  "Technology we use is built on the shoulders of thousands of people, don't expect to understand and build a production-grade application in a week"
-
-> "May your every day be as SHINY as possible" - Pawan Rama Mali
-
-
 ```JavaScript
 
 while(noSuccess)
