@@ -29,14 +29,6 @@ Data Science -
 -->
 
 
-<p align="left">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=PawanRamaMali&show_icons=true&hide=prs,issues)](https://github.com/PawanRamaMali"/>
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRamaMali&layout=compact)](https://github.com/PawanRamaMali"/>
-  
- </p>
-
 <br> 
 
 <hr>
