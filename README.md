@@ -7,8 +7,6 @@
 - 💬 Ask me about Programming, Python or R Shiny
 - 📫 How to reach me: @PawanRamaMali 
 
-Website - [https://pawanramamali.github.io/ ](https://pawanramamali.github.io/) 
-
 - The Aviator Game -  [Play](https://pawanramamali.github.io/JS/airplanes-demo/)   
 - The Chess Game -  [Play](https://pawanramamali.github.io/JS/chess-demo/)   
 - Tic Tac Toe - 2 Player Game -  [Play](https://pawanramamali.github.io/Tic-Tac-Toe-App-Demo/) 
