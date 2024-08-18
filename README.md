@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" width="400"/>
 
-- 🔭 I’m currently working on building Dashboards
-- 🌱 I’m currently learning Artificial Intelligence
 - 💬 Ask me about Programming, Python or R Shiny
 - 📫 How to reach me: @PawanRamaMali 
 
-- The Aviator Game -  [Play](https://pawanramamali.github.io/JS/airplanes-demo/)   
-- The Chess Game -  [Play](https://pawanramamali.github.io/JS/chess-demo/)   
-- Tic Tac Toe - 2 Player Game -  [Play](https://pawanramamali.github.io/Tic-Tac-Toe-App-Demo/) 
 
 Data Science - 
 - [Data Exploration in R ](https://pawanramamali.github.io/Data-Exploration-in-R/)
@@ -58,6 +52,7 @@ Data Science -
 
 ```JavaScript
 
+
 while(noSuccess)
 {
     tryAgain();
@@ -67,3 +62,6 @@ while(noSuccess)
 }
 
 ```
+- The Aviator Game -  [Play](https://pawanramamali.github.io/JS/airplanes-demo/)   
+- The Chess Game -  [Play](https://pawanramamali.github.io/JS/chess-demo/)   
+- Tic Tac Toe - 2 Player Game -  [Play](https://pawanramamali.github.io/Tic-Tac-Toe-App-Demo/) 
